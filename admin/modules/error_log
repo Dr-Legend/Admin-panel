@@ -1,0 +1,64 @@
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined variable: comp in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 90
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: elasticHost in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 40
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: elasticIndex in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 40
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: elasticHost in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 40
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: elasticIndex in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 40
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant SCRIPT_START_TIME - assumed 'SCRIPT_START_TIME' in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 77
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 88
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 110
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant company - assumed 'company' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 111
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 112
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant address - assumed 'address' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 113
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant twitter - assumed 'twitter' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 114
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant facebook - assumed 'facebook' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 115
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant linkedin - assumed 'linkedin' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 116
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant youtube - assumed 'youtube' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 117
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant gplus - assumed 'gplus' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 118
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant codc - assumed 'codc' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 119
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: codc in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 119
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant codcor - assumed 'codcor' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 120
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: codcor in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 120
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant codamt - assumed 'codamt' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 121
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: codamt in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 121
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant ship - assumed 'ship' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 122
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: ship in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 122
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant shipamt - assumed 'shipamt' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 123
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: shipamt in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 123
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant domains - assumed 'domains' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 124
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Use of undefined constant tax - assumed 'tax' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 125
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined index: tax in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 125
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined variable: flag in /home/hc4m8sbxcnr3/public_html/bible/admin/modules/orders.php on line 13
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined variable: recordsArray in /home/hc4m8sbxcnr3/public_html/bible/admin/modules/orders.php on line 43
+[07-Apr-2019 17:42:12 Asia/Kolkata] PHP Notice:  Undefined variable: recordsArray in /home/hc4m8sbxcnr3/public_html/bible/admin/modules/orders.php on line 43
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined variable: comp in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 90
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: elasticHost in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 40
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: elasticIndex in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 40
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: elasticHost in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 40
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: elasticIndex in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 40
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant SCRIPT_START_TIME - assumed 'SCRIPT_START_TIME' in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 77
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/hc4m8sbxcnr3/public_html/bible/lib/pdo.inc.php on line 88
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 110
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant company - assumed 'company' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 111
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant phone - assumed 'phone' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 112
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant address - assumed 'address' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 113
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant twitter - assumed 'twitter' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 114
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant facebook - assumed 'facebook' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 115
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant linkedin - assumed 'linkedin' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 116
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant youtube - assumed 'youtube' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 117
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant gplus - assumed 'gplus' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 118
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant codc - assumed 'codc' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 119
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: codc in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 119
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant codcor - assumed 'codcor' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 120
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: codcor in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 120
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant codamt - assumed 'codamt' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 121
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: codamt in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 121
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant ship - assumed 'ship' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 122
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: ship in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 122
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant shipamt - assumed 'shipamt' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 123
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: shipamt in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 123
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant domains - assumed 'domains' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 124
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Use of undefined constant tax - assumed 'tax' in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 125
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined index: tax in /home/hc4m8sbxcnr3/public_html/bible/lib/config.inc.php on line 125
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined variable: flag in /home/hc4m8sbxcnr3/public_html/bible/admin/modules/orders.php on line 13
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined variable: recordsArray in /home/hc4m8sbxcnr3/public_html/bible/admin/modules/orders.php on line 43
+[07-Apr-2019 17:42:14 Asia/Kolkata] PHP Notice:  Undefined variable: recordsArray in /home/hc4m8sbxcnr3/public_html/bible/admin/modules/orders.php on line 43
