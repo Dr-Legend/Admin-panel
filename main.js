@@ -327,7 +327,6 @@ var AppModule = /** @class */ (function () {
                 _angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClientModule"],
                 _angular_common__WEBPACK_IMPORTED_MODULE_0__["CommonModule"],
                 _pages_investigations__WEBPACK_IMPORTED_MODULE_8__["InvestigationsModule"],
-                _pages_orders_orders_component__WEBPACK_IMPORTED_MODULE_10__["OrdersComponent"]
             ],
             providers: [
                 _services_investigations_service__WEBPACK_IMPORTED_MODULE_9__["InvestigationsService"],
