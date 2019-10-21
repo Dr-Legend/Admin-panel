@@ -1,9 +1,0 @@
-<?php
-include('../lib/config.inc.php');
-include('cuts/meta.inc.php');
-include('cuts/header.inc.php');
-include('cuts/sidebar.inc.php');
-include("cuts/breadcrumb.inc.php");
-include("../lib/modules.php");
-include('cuts/footer.inc.php'); 
-?>
